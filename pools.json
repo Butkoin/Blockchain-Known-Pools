@@ -1,0 +1,23 @@
+{
+    "coinbase_tags" : {
+        "/RPLANT/": {
+            "name": "rplant.xyz",
+            "link": "https://pool.rplant.xyz/"
+        },
+        "/MINER123.WIN/": {
+            "name": "MINER123.WIN",
+            "link": "https://miner123.win/"
+        },
+        "/Myminingpool.uk/": {
+            "name": "Myminingpool.uk",
+            "link": "https://myminingpool.uk/"
+        },
+        "/butk-gr.suprnova.cc/" : {
+            "name" : "butk-gr.suprnova.cc",
+            "link" : "https://butk-gr.suprnova.cc/"
+        },
+        "/murkapool.it/" : {
+            "name" : "murkapool.it",
+            "link" : "https://murkapool.it/"
+        }
+}
